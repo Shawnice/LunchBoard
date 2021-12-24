@@ -1,0 +1,6 @@
+# Do not use this file unless necessary. setup.cfg is preferred due to
+# wide support.
+
+# Sections are organised in alphabetical order by tool name.
+[tool.black]
+line-length = 79
