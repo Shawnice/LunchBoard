@@ -1,0 +1,11 @@
+flake8 - annotations
+flake8 - unused - arguments
+naming
+pep8 - naming
+python - dotenv
+radon
+wemake - python - styleguide
+black
+isort
+mock
+mypy

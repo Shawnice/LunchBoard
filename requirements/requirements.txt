@@ -1,0 +1,7 @@
+-r requirements-linter.txt
+-r requirements-test.txt
+-r requirements-types.txt
+googlemaps
+fastapi
+pydantic
+uvicorn
